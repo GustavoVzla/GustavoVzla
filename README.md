@@ -1,6 +1,6 @@
 # Gustavo Tejera
 
-**Full Stack Developer · Automation & AI · Data (Power BI) · Web3**
+**Full Stack Developer · Automation & AI · Data (Power BI) · Web3**<br>
 Madrid, Spain · Open to work (Full Stack, automation/AI, data, Web3, IT support)
 
 [LinkedIn](https://www.linkedin.com/in/gustavotejera) · [Website](https://gtdevsolutions.com) · [soluciones@gtdevsolutions.com](mailto:soluciones@gtdevsolutions.com)
