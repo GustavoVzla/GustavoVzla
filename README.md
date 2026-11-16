@@ -57,8 +57,8 @@ Languages: Spanish (native), Italian (professional), English (B2).
 
 ---
 
-## Espanol
+## Español
 
-Desarrollador Full Stack con foco en automatizacion e IA, datos (Power BI) y Web3, en Madrid y disponible para nuevas oportunidades (Full Stack, automatizacion/IA, datos, Web3, soporte IT).
+Desarrollador Full Stack con foco en automatización e IA, datos (Power BI) y Web3, en Madrid y disponible para nuevas oportunidades (Full Stack, automatización/IA, datos, Web3, soporte IT).
 
-Trabajo con React, Next.js, Node.js y Supabase; automatizo procesos con n8n y modelos de lenguaje; y escribo contratos inteligentes en Solidity. Los proyectos de arriba son codigo real; los repositorios de cursos estan marcados como tales. Contacto: [LinkedIn](https://www.linkedin.com/in/gustavotejera) o soluciones@gtdevsolutions.com.
+Trabajo con React, Next.js, Node.js y Supabase; automatizo procesos con n8n y modelos de lenguaje; y escribo contratos inteligentes en Solidity. Los proyectos de arriba son código real; los repositorios de cursos están marcados como tales. Contacto: [LinkedIn](https://www.linkedin.com/in/gustavotejera) o soluciones@gtdevsolutions.com.
