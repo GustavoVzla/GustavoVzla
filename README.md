@@ -51,6 +51,7 @@ Languages: Spanish (native), Italian (professional), English (B2).
 
 - **HACK A BOSS** - Full Stack JavaScript bootcamp (256 h, 2023).
 - **Full Stack Open** (University of Helsinki) - course exercises in [fullStackOpen_course](https://github.com/GustavoVzla/fullStackOpen_course).
+- **React + Vite practice** - 18 small apps, each with a live demo, in [react-vite-mini-apps](https://github.com/GustavoVzla/react-vite-mini-apps).
 - **Blockchain / Web3 bootcamp** (Udemy, 2025) - coursework in [Basic Fundamentals](https://github.com/GustavoVzla/Blockchain-Web3-Basic-Fundamentals), [Advanced](https://github.com/GustavoVzla/Blockchain-Web3-Advanced) and [Token Creation (ERC)](https://github.com/GustavoVzla/Blockchain-Web3-Creation-of-Tokens-ERC).
 - **Microsoft Power BI** course (120 h) - in progress, ends December 2026.
 - **Claude Code in Action** (Anthropic).
